@@ -1,16 +1,30 @@
-# reservation_app
+# 📆 Reservation App
+A mobile reservation app built with Flutter, following a clean MVVM architecture, and using Provider for state management. The app allows users to view, create, and manage reservations smoothly with a modern and responsive UI.
 
-A new Flutter project.
+## 🚀 Features
+📋 View all available services or time slots
 
-## Getting Started
+➕ Create a new reservation
 
-This project is a starting point for a Flutter application.
+🗓 Manage existing bookings
 
-A few resources to get you started if this is your first Flutter project:
+📱 Beautiful UI based on Figma design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔁 Real-time updates using Firebase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔒 Authentication (optional if included)
+
+🧭 Multi-screen navigation
+
+🌐 RTL support (if applicable)
+
+##🛠️ Tech Stack
+Flutter — App development
+
+Provider — State management
+
+MVVM Folder Structure — For scalable and clean architecture
+
+Firebase (if used) — For backend (auth, database, etc.)
+
+Figma to UI — Custom UI built from provided design
